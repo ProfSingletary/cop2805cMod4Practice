@@ -3,6 +3,6 @@ Assume A, E, I, O, and U are the vowels. The same vowels or consonants are count
 
 Sample run:
 
-  Enter a string: Programming is fun
-  The number of vowels is 4
-  The number of consonants is 7
+  Enter a string: Programming is fun  
+  The number of vowels is 4  
+  The number of consonants is 7  
